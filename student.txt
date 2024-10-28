@@ -1,0 +1,6 @@
+IME     PREZIME    BODOVI
+Dorian   Leci        50
+Ante     Kundid      45
+Luka     Jerkovic    44
+Ante     Kardos      51
+Damir    Leci        60
